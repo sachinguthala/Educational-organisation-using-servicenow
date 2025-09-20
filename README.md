@@ -1,5 +1,5 @@
-🎓 Educational Organisation Management System (ServiceNow)
-📌 Project Overview
+ Educational Organisation Management System (ServiceNow)
+     Project Overview
 
 The Educational Management System (EMS) is a streamlined solution built on the ServiceNow platform to enhance administrative efficiency within educational institutions.
 
@@ -15,7 +15,7 @@ Automated workflows for error-free operations
 
 By implementing EMS in ServiceNow, institutions benefit from a user-friendly, customizable, and automated environment that supports better decision-making and operational management.
 
-⚙️ Setup Instructions
+ Setup Instructions
 1. ServiceNow Instance
 
 Sign up at ServiceNow Developer Portal
@@ -32,7 +32,7 @@ Create an update set named Educational Organisation
 
 Set as Current
 
-🗄️ Tables & Forms
+ Tables & Forms
 
 Salesforce Table – Core student information
 
@@ -42,7 +42,7 @@ Student Progress Table – Tracks performance
 
 Each table has customized forms with fields like Admission Number, Grade, School, Pincode, etc.
 
-🔄 Automation & Scripts
+ Automation & Scripts
 
 Client Scripts implemented include:
 
@@ -54,13 +54,13 @@ Disable Fields for Student Progress
 
 Total Marks Calculation
 
-📊 Process Flows
+ Process Flows
 
 Admission lifecycle stages:
 
 New → InProgress → Joined → Rejected → Rejoined → Closed → Cancelled
 
-✅ Results
+ Results
 
 Centralized student & admission management
 
@@ -70,7 +70,7 @@ Automated workflows
 
 Progress tracking with accurate calculations
 
-📸 Screenshots (to be added)
+ Screenshots (to be added)
 
 Table & form configurations
 
@@ -78,7 +78,7 @@ Process flows
 
 Script execution in forms
 
-🔮 Future Scope
+ Future Scope
 
 Integration with Power BI / Tableau for reporting
 
@@ -90,7 +90,7 @@ API integrations with external systems
 
 AI-driven student performance insights
 
-📽️ Demo
+ Demo
 
 👉 YouTube Demo
 
@@ -104,7 +104,7 @@ Highly customizable
 
 Role-based secure access
 
-⚠️ Disadvantages
+ Disadvantages
 
 Requires ServiceNow knowledge
 
